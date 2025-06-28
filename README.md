@@ -1,1 +1,1 @@
-# javascript-clock
+It's a clock. That ticks.
